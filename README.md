@@ -1,5 +1,8 @@
 # ROAD_TO_VlSI
 
-### A final year ece student not knew where to go, prepared for GATE2026 but not even qualified missed by a small margin.
-Now the road to get something and learn things in a different way start. A journey not knew where it is going to be end but it is going to be wonderful treating today as DAY0 and starting building myself brick by brick. You can say this as my journal or whatever.But i am going to document here what i learn and how i learnt. 
-- Today(21-05-2026) Day 0 starting Topic 0 going to learn about MARKDOWN so that i can present by things in a better way.
+** Hi! I am Abhishek Yadav, creating this to showcase what i learnt and how i learnt. I am making this on my self improvment journey and learning motivating skills that will help me in my vlsi career. I am making it as my portfolio repository, but any fellow student can also learn with me by following all the resources i follow so they can save the time and can use the best resources. **
+
+- Day 0 MARKDOWN (so that i can write documentation in a better way).
+  1. Includes the two resources Github and Markdown Guide i used to learn this.
+  2. A demo project to practice and get hands on something real and tricky.
+  3. Also icludes a cheatsheet for writing better Markdown.
