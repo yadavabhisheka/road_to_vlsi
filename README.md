@@ -26,7 +26,7 @@ ECE gold medalist (2026), CS Azad University of Agriculture & Technology, Kanpur
 | Topic | Status | Resource | Notes |
 |---|---|---|---|
 | Markdown / Docs | 🔄 | markdownguide.org | Learning tables, task lists |
-| Python Fundamentals | ⏳ | Corey Schafer (YouTube) | |
+| Python Fundamentals | 🔄 | Corey Schafer (YouTube) |Python syntax  |
 | NumPy / OpenCV / Pillow | ⏳ | OpenCV official docs | |
 | pandas / regex | ⏳ | pandas docs | |
 | Digital Electronics | ⏳ | own notes | Refresh only |
@@ -52,6 +52,8 @@ ECE gold medalist (2026), CS Azad University of Agriculture & Technology, Kanpur
 Links to daily entries in `/daily-log/`.
 
 - [2026-07-07](daily-log/2026-07-07.md)
+- [2026-07-08](daily-log/2026-07-08.md)
+
 
 ## Importants
 

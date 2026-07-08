@@ -14,6 +14,9 @@
 **Term** —
 *Example use:*
 
+
+**Fstrings** — *message=f'{var1}, {var2}. Welcome!'*
+
 ---
 
 ## Category: Digital Electronics / COA / Microprocessor
