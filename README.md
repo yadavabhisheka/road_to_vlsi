@@ -17,7 +17,6 @@ ECE gold medalist (2026), CS Azad University of Agriculture & Technology, Kanpur
 ## Current Focus
 > **Week 1:** Python fundamentals + agentic-ai basics
 > **Current Project:** Building a **Resource Finder AI Agent** to curate and rank free VLSI/DV learning resources (papers, videos, docs, GitHub repos).  
-> **Daily Logging:** All learning activities recorded in `/logs/` with dated markdown entries; substantial technical notes also added to relevant subject folders.
 
 ## Roadmap
 | Topic | Status | Resource | Notes |

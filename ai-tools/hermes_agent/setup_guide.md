@@ -54,19 +54,6 @@ per-message overhead from **22k tokens (11% of 200k context)** to
 won't use. Worth doing this trimming pass before loading any persona
 or project context on top.
 
-## Archii's role (from her persona file)
-Three jobs, defined in `archii_persona.md`:
-1. **Habit tracker** — logs daily study check-ins, tracks streaks
-2. **VLSI/DV learning mentor** — grounded in my actual roadmap (Python,
-   64 LeetCode problems, HDL, SystemVerilog/UVM, AI tooling)
-3. **Career copilot** — tailors resume/cover-letter bullets, tracks
-   companies I mention applying to
-
-## What's next
-- Daily/weekly logs written to this repo (see below)
-- Eventually: an MCP server exposing my regression/coverage data to
-  her directly, once that project exists
-
 ## Credit
 Built with guidance from Claude (Anthropic) — I worked through the
 install, the two mid-setup model failures, the tool-trimming pass, and
